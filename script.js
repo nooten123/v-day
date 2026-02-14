@@ -16,7 +16,7 @@ const noMessages = [
     "Si tu dis non, je serais vraiment triste...",
     "Je serais vraiment très triste... 😢",
     "Aller STP 💔",
-    "Mon fait pas ça...",
+    "Me fait pas ça...",
     "Dernière chance 😭",
     "Tu peux pas m'attraper de toute façon 😜"
 ]
